@@ -7,12 +7,12 @@ To run this program you have to follow the next instructions:
 
 1. In your command line type: 
   ```bash
-  git clone https://github.com/dancingQueue/homework_1
+  git clone https://github.com/dancingQueue/HomeWork1
   ```
   
 2. Now you can step into homework_1 folder: 
   ```bash
-  cd homework_1/
+  cd HomeWork1/src/tasks/first/
   ```
   
 3. Then you have to compile HelloWorld.java using javac
