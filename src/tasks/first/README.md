@@ -12,17 +12,17 @@ To run this program you have to follow the next instructions:
   
 2. Now you can step into homework_1 folder: 
   ```bash
-  cd HomeWork1/src/tasks/first/
+  cd HomeWork1/
   ```
   
 3. Then you have to compile HelloWorld.java using javac
   ```bash
-  javac HelloWorld.java
+  javac src/tasks/first/HelloWorld.java
   ```
 
 
 4. After successful compilation you can run HelloWorld program as follows and see the result
   ```bash
-  java HelloWorld
+  java -cp ./src tasks.first.HelloWorld
   Hello, world!
   ```
